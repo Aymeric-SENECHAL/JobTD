@@ -1,0 +1,12 @@
+C:\Users\theot\source\repos\ExercicesTDD\bin\Debug\net5.0\ExercicesTDD.deps.json
+C:\Users\theot\source\repos\ExercicesTDD\bin\Debug\net5.0\ExercicesTDD.dll
+C:\Users\theot\source\repos\ExercicesTDD\bin\Debug\net5.0\ref\ExercicesTDD.dll
+C:\Users\theot\source\repos\ExercicesTDD\bin\Debug\net5.0\ExercicesTDD.pdb
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.csprojAssemblyReference.cache
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.AssemblyInfoInputs.cache
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.AssemblyInfo.cs
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.csproj.CoreCompileInputs.cache
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.dll
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ref\ExercicesTDD.dll
+C:\Users\theot\source\repos\ExercicesTDD\obj\Debug\net5.0\ExercicesTDD.pdb
